@@ -16,3 +16,5 @@ np.std(s_random) calculates the standard deviation of all of the values of s_ran
 
 np.mean(s_random) calculates the average or the mean of all of the values in s_random array and which is then stored on the variable mean_s
 
+* s_norm = (s_random - mean_s) / std_s
+
