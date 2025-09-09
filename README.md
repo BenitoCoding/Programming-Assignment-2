@@ -12,5 +12,7 @@ Numpy Library (alias np) allows array creation and mathematical operations which
 
 np.random.seed allows random seed generation and to make the code consistent meaning, the seeds does not change everytime it runs and stays at a constant value.
 
+np.std(s_random) calculates the standard deviation of all of the values of s_random array to which it is then stored on the variable std_s
 
+np.mean(s_random) calculates the average or the mean of all of the values in s_random array and which is then stored on the variable mean_s
 
